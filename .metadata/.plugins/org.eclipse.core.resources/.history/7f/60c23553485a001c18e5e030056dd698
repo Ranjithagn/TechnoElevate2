@@ -1,0 +1,9 @@
+package com.sfdw;
+
+public class Whatsapp3 extends Whatsapp2 {
+	public void Msgread() {
+		System.out.println("Message is Read");
+	}
+	
+
+}

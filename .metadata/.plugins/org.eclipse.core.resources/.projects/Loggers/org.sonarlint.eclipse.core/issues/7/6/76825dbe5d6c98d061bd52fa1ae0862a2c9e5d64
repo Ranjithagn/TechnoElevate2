@@ -1,0 +1,11 @@
+
+¦
+java:S1130"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(ì¾ùÿÿÿÿ8Ê…ÅïÙ/HÈRMINORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(· ¸18Ê…ÅïÙ/HÊRMAJORZ
+CODE_SMELL
+o
+java:S1128"=Remove this unused import 'java.util.logging.ConsoleHandler'.(±ìÍ 8îåºğÙ/HÌRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(€­ğŠ8Ê…ÅïÙ/HÎRMAJORZ
+CODE_SMELL

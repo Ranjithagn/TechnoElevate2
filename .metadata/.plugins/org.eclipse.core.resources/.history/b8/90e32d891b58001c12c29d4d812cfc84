@@ -1,0 +1,12 @@
+package hascode;
+
+public class Apple {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Hai hai = new Hai();
+int hashCode = hai.hashCode();
+System.out.println(hashCode);
+	}
+
+}

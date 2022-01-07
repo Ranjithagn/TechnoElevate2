@@ -1,0 +1,17 @@
+package com.sfdw;
+
+public class user {
+
+	public static void main(String[] args) {
+//	Whatsapp3 whatsapp3 = new Whatsapp3();
+//		whatsapp3.text();
+//	whatsapp3.textrecieved();
+//		whatsapp2.msgread();
+		Whatsapp2 whatsapp2 = new Whatsapp2();
+	whatsapp1	whatsapp=whatsapp2;
+	whatsapp2.text();
+		
+
+	}
+
+}

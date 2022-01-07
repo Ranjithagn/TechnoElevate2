@@ -1,0 +1,17 @@
+import java.util.TreeSet;
+
+import javax.swing.Spring;
+
+public class Comparesytring {
+
+	public static void main(String[] args) {
+		TreeSet treeSet = new TreeSet(new Sortbyde());
+		treeSet.add("A");
+		treeSet.add("D");
+		treeSet.add("R");
+		treeSet.add("E");
+		System.out.println(treeSet);
+
+	}
+
+}

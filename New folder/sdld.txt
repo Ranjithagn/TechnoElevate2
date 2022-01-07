@@ -1,0 +1,5 @@
+for loop
+*it is used to repeat a block of code for particular number of time 
+
+
+var args method-nothing but it is expecting an array input

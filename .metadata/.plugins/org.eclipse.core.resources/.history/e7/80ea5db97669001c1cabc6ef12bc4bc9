@@ -1,0 +1,15 @@
+import java.util.*;
+
+public class Comparesytring {
+
+	public static void main(String[] args) {
+		TreeSet treeSet = new TreeSet(new Sort());
+		treeSet.add("A");
+		treeSet.add("D");
+		treeSet.add("R");
+		treeSet.add("E");
+		System.out.println(treeSet);
+
+	}
+
+}

@@ -1,0 +1,11 @@
+
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Şš†¾ûÿÿÿÿH’RMINORZ
+CODE_SMELL
+p
+java:S1854"=Remove this useless assignment to local variable "whatsapp2".(ğÜ¯÷8ŒõÅÚ/H“RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ÿéùÜÿÿÿÿÿ8ŒõÅÚ/H”RMAJORZ
+CODE_SMELL
+a
+java:S1481".Remove this unused "whatsapp2" local variable.(ğÜ¯÷8ŒõÅÚ/H˜RMINORZ
+CODE_SMELL

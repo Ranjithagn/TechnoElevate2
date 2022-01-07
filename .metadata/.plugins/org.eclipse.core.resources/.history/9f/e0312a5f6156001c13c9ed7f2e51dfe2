@@ -1,0 +1,18 @@
+
+public class Ticketbook {
+int noOfTickets;
+int tickets;
+public Ticketbook(int noOfTickets, int tickets) {
+	super();
+	this.noOfTickets = noOfTickets;
+	this.tickets = tickets;
+}
+public void booktickets(){
+	if(tickets<noOfTickets){
+		System.out.println("tickets are not available");
+	}
+	else{
+		System.out.println("tickets booked: "+noOfTickets);
+	}
+}
+}

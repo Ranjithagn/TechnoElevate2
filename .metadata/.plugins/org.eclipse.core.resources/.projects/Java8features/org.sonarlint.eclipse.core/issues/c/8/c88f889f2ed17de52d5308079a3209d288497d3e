@@ -1,0 +1,17 @@
+
+e
+java:S1854"9Remove this useless assignment to local variable "test1".(„їабHєRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ЈЖПБH»RMAJORZ
+CODE_SMELL
+T
+java:S1604"(Make this anonymous inner class a lambda(Д·њЬHјRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(аЫЪгъяяяяHЅRMAJORZ
+CODE_SMELL
+V
+java:S1481"*Remove this unused "test1" local variable.(„їабHѕRMINORZ
+CODE_SMELL
+X
+java:S1602",Remove useless curly braces around statement(„їабHАRMINORZ
+CODE_SMELL

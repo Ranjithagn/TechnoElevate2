@@ -1,0 +1,16 @@
+package com.te.mockproblemarray;
+
+import java.util.ArrayList;
+
+public class Mock {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> arrayList = new ArrayList<>();
+		arrayList.add(11);
+		arrayList.add(18);
+		arrayList.add(19);
+		arrayList.add(110);
+		System.out.println(list);
+	}
+
+}

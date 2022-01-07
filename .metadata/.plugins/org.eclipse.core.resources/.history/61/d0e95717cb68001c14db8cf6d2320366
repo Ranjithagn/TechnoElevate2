@@ -1,0 +1,23 @@
+package com.te.customexception;
+
+public class Main1 {
+	public static  void age(int age){
+		if(age<18){
+			throw new InvalidageException("not eligible to vote");
+		}
+		else{
+			System.out.println("vote after 18");
+		}
+	}
+
+	public static void main(String[] args) {
+		try{
+			age(17);
+				
+			}catch(Invalidageexception e){
+				System.out.println("exception handled");
+		}
+
+	}
+
+}

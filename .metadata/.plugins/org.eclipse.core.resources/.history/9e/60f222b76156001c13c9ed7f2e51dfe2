@@ -1,0 +1,17 @@
+
+public class Ticketbook {
+int tickets=20;
+
+public synchronized void booktickets(int noOfTickets){
+	if(tickets<noOfTickets){
+		System.out.println("tickets are not available");
+		System.out.println("****************************");
+	}
+	else{
+		System.out.println(noOfTickets+"Tickets are booked ");
+		tickets-=noOfTickets;
+		System.out.println("number of tickets left:"+tickets);
+		System.out.println("***************************");
+	}
+}
+}

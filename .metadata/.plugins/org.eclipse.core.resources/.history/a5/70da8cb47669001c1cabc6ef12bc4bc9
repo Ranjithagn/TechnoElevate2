@@ -1,0 +1,12 @@
+import java.util.Comparator;
+
+public  class Sort implements Comparator<String> {
+
+	public int Compare(Object o1, Object o2) {
+		
+	String s = o1.toString();
+		String s1 = o2.toString();
+		return s.comapareTo(s1);
+	}
+
+}

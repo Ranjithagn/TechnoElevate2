@@ -1,0 +1,13 @@
+package com.assignment;
+
+public class Hierarchicalinheritence1 extends Hierarchicalinheritence {
+	int j=20;
+
+	public static void main(String[] args) {
+		Hierarchicalinheritence1 ob1=new Hierarchicalinheritence1();
+		System.out.println(ob1.i);
+		System.out.println(ob1.j);
+
+	}
+
+}

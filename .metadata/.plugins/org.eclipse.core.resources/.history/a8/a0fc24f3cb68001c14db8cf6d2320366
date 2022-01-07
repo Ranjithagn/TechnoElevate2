@@ -1,0 +1,5 @@
+package com.te.customebank;
+
+public class bank1 extends Exception {
+
+}

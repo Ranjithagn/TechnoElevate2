@@ -1,0 +1,7 @@
+package com.te.exception;
+
+public class Customexception {
+public static void main(String[] args) {
+	
+}
+}

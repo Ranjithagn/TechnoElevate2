@@ -1,0 +1,16 @@
+package com.te.abcd;
+
+public class Static1 {
+	public static float add(int x,float y){
+		float sum1=x+y;
+		return sum1;
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		add(12,12.3f);
+
+
+	}
+
+}
